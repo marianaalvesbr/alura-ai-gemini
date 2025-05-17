@@ -63,6 +63,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir "issues" para re
 
 ## Licença
 
----
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 **Disclaimer:** Este projeto utiliza modelos de IA que podem gerar informações imprecisas. Sempre verifique os dados e consulte fontes oficiais ou profissionais qualificados para a sua declaração do Imposto de Renda.
