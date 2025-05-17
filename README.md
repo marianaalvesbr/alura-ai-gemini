@@ -1,5 +1,5 @@
 # DeclaraAI - Seu assistente inteligente para a declaração do Imposto de Renda
-
+![Captura de Tela do DeclaraAI](logo.png "DeclaraAI em Execução")
 ## ✨ Sobre o Projeto
 
 O DeclaraAI é um assistente desenvolvido em Python, utilizando o poder da Inteligência Artificial Generativa (Google Gemini) e o Google Agent Development Kit (ADK), para auxiliar você no processo de declaração do Imposto de Renda no Brasil.
